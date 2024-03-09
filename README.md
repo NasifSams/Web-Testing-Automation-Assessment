@@ -6,7 +6,7 @@
 
 4.mainTest.java is used for Operational method, and PomCN14_2024.Java is used for identification.
 
-5.As it is a Java Maven project i used different dependencies---> estng, elenium-java, ommons-io, ebdrivermanager, extentreports, selenium-support
+5.As it is a Java Maven project i used different dependencies---> Testng, selenium-java, commons-io, webdrivermanager, Eextentreports, selenium-support
 
 6.And the brower has been used is "Chrome for testing".
 
