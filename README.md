@@ -10,7 +10,7 @@
 
 6.And the brower has been used is "Chrome for testing".
 
-7.It has created an ExtentReport called MyTestReport.html for every sigle steps all the test/log status has been given upadted in my Extent report.
+7.It has created an ExtentReport called MyTestReport.html for every sigle steps all the test/log status with Base64 Screenshot has been given upadted in my Extent report.
 
 8.To run the project you are requested to go and run the mainTest.java file and run as a TestNG Test.
 
