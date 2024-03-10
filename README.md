@@ -23,5 +23,5 @@
 
 11. All the possible try with different locator, strategies and xtended waiting times methods has been given under another Package called Demo. Under Demo, CNSDemo.java class has all the possible tries.
 
-
+N.B: If you are running this project you are requested to change the phone number. This number has been already  resisted 
 Thank you
