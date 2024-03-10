@@ -14,7 +14,7 @@
 
 8.To run the project you are requested to go and run the mainTest.java file and run as a TestNG Test.
 
-9.To understand more about run steps please take a look on my MyTestReport.html file.
+9.To understand more about project's steps please download the raw file and take a look on my MyTestReport.html file.
 
 
 10.Bug/Error: In Post Vacancy page eye logo in under action has been unable to locate: "no such element: Unable to locate element" showed.
